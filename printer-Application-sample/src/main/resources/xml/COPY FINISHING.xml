@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <androidx.constraintlayout.widget.ConstraintLayout
+ xmlns:android="http://schemas.android.com/apk/res/android"
+ xmlns:app="http://schemas.android.com/apk/res-auto"
+ xmlns:tools="http://schemas.android.com/tools"
+ android:layout_width="960dp"
+ android:layout_height="640dp">
+ <ImageView
+     android:id="@+id/scan"
+     tools:layout_editor_absoluteX="0dp"
+     tools:layout_editor_absoluteY="0dp"
+     android:layout_width="960dp"
+     android:layout_height="640dp"
+     android:background="@drawable/scan"
+     />
+<Button
+android:id="@+id/ocopy"
+android:layout_width="385dp"
+android:layout_height="262dp"
+tools:layout_editor_absoluteX="511dp"
+tools:layout_editor_absoluteY="314dp"
+android:background="@drawable/recopy" />
+
+<Button
+android:id="@+id/done"
+android:layout_width="386dp"
+android:layout_height="264dp"
+tools:layout_editor_absoluteX="64dp"
+tools:layout_editor_absoluteY="315dp"
+android:background="@drawable/donec" />
+
+ <TextView
+     android:id="@+id/TextView"
+     android:layout_width="534dp"
+     android:layout_height="55dp"
+     android:gravity="center"
+     android:text="You're all set! What's next?"
+     android:textColor="#000000"
+     android:textSize="36dp"
+     android:textStyle="bold"
+     tools:layout_editor_absoluteX="225dp"
+     tools:layout_editor_absoluteY="180dp" />
+
+<TextView
+android:id="@+id/TextView3"
+android:layout_width="288dp"
+android:layout_height="71dp"
+
+    android:textStyle="bold"
+    android:textSize="48dp"
+    android:textColor="#00ACF8"
+    android:gravity="center"
+tools:layout_editor_absoluteX="333dp"
+tools:layout_editor_absoluteY="50dp"
+android:text="FINISHING" />
+ <Button
+     android:id="@+id/home"
+     android:layout_width="51dp"
+     android:layout_height="54dp"
+     tools:layout_editor_absoluteX="851dp"
+     tools:layout_editor_absoluteY="51dp"
+     android:background="@drawable/home" />
+ <Button
+     android:id="@+id/back"
+     android:layout_width="36dp"
+     android:layout_height="46dp"
+     android:background="@drawable/home_seta"
+     tools:layout_editor_absoluteX="85dp"
+     tools:layout_editor_absoluteY="55dp" />
+
+
+
+ 
+</androidx.constraintlayout.widget.ConstraintLayout>

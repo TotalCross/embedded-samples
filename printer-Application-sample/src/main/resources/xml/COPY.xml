@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <androidx.constraintlayout.widget.ConstraintLayout
+ xmlns:android="http://schemas.android.com/apk/res/android"
+ xmlns:app="http://schemas.android.com/apk/res-auto"
+ xmlns:tools="http://schemas.android.com/tools"
+ android:layout_width="960dp"
+ android:layout_height="640dp">
+
+ <ImageView
+     android:id="@+id/scan"
+     tools:layout_editor_absoluteX="0dp"
+     tools:layout_editor_absoluteY="0dp"
+     android:layout_width="960dp"
+     android:layout_height="640dp"
+     android:background="@drawable/scan"
+     />
+
+<TextView
+android:id="@+id/TextView"
+android:layout_width="137dp"
+android:layout_height="73dp"
+tools:layout_editor_absoluteX="410dp"
+tools:layout_editor_absoluteY="33dp"
+    android:textStyle="bold"
+    android:textSize="48dp"
+    android:textColor="#00ACF8"
+    android:gravity="center"
+
+    android:text="COPY" />
+
+<Button
+android:id="@+id/color"
+android:layout_width="386dp"
+android:layout_height="263dp"
+tools:layout_editor_absoluteX="58dp"
+tools:layout_editor_absoluteY="317dp"
+android:background="@drawable/copycolor" />
+
+<Button
+android:id="@+id/bw"
+android:layout_width="387dp"
+android:layout_height="260dp"
+tools:layout_editor_absoluteX="513dp"
+tools:layout_editor_absoluteY="320dp"
+android:background="@drawable/copybw" />
+
+ <TextView
+     android:id="@+id/TextView3"
+     android:layout_width="338dp"
+     android:layout_height="111dp"
+     android:gravity="center"
+     android:text="What kind of copy do you need?"
+
+     android:textColor="#000000"
+     android:textSize="36dp"
+     android:textStyle="bold"
+     tools:layout_editor_absoluteX="313dp"
+
+     tools:layout_editor_absoluteY="164dp" />
+ <Button
+     android:id="@+id/home"
+     android:layout_width="51dp"
+     android:layout_height="54dp"
+     tools:layout_editor_absoluteX="851dp"
+     tools:layout_editor_absoluteY="51dp"
+     android:background="@drawable/home" />
+ <Button
+     android:id="@+id/back"
+     android:layout_width="36dp"
+     android:layout_height="46dp"
+     android:background="@drawable/home_seta"
+     tools:layout_editor_absoluteX="85dp"
+     tools:layout_editor_absoluteY="55dp" />
+
+
+
+ 
+</androidx.constraintlayout.widget.ConstraintLayout>
