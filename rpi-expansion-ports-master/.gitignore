@@ -1,0 +1,12 @@
+
+.settings/
+
+.vscode/
+
+target/
+
+.classpath
+
+.project
+
+chime.mp3

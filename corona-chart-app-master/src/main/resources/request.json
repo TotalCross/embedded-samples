@@ -1,0 +1,1287 @@
+{
+    "status": 200,
+    "type": "collection",
+    "elements": 128,
+    "data": {
+        "2020-05-27": {
+            "total_cases": 5791800,
+            "active_cases": 2938659,
+            "deaths": 357107,
+            "recovered": 2496034,
+            "critical": 51318,
+            "tested": 70027902,
+            "death_ratio": 0.06165734314030181,
+            "recovery_ratio": 0.43095997789978935
+        },
+        "2020-05-26": {
+            "total_cases": 5688775,
+            "active_cases": 2905503,
+            "deaths": 351972,
+            "recovered": 2431300,
+            "critical": 51520,
+            "tested": 68219362,
+            "death_ratio": 0.06187131675975935,
+            "recovery_ratio": 0.42738550918255686
+        },
+        "2020-05-25": {
+            "total_cases": 5594296,
+            "active_cases": 2880116,
+            "deaths": 347951,
+            "recovered": 2366229,
+            "critical": 51592,
+            "tested": 66972579,
+            "death_ratio": 0.06219745969823549,
+            "recovery_ratio": 0.42297171976599024
+        },
+        "2020-05-24": {
+            "total_cases": 5503206,
+            "active_cases": 2852180,
+            "deaths": 346725,
+            "recovered": 2304301,
+            "critical": 51649,
+            "tested": 65513740,
+            "death_ratio": 0.06300418337965179,
+            "recovery_ratio": 0.4187197426372918
+        },
+        "2020-05-23": {
+            "total_cases": 5409274,
+            "active_cases": 2815539,
+            "deaths": 343960,
+            "recovered": 2249775,
+            "critical": 51978,
+            "tested": 63640390,
+            "death_ratio": 0.06358709135458844,
+            "recovery_ratio": 0.415910711862627
+        },
+        "2020-05-22": {
+            "total_cases": 5308907,
+            "active_cases": 2813730,
+            "deaths": 339772,
+            "recovered": 2155405,
+            "critical": 42999,
+            "tested": 62060668,
+            "death_ratio": 0.0640003676839696,
+            "recovery_ratio": 0.40599788242664636
+        },
+        "2020-05-21": {
+            "total_cases": 5199790,
+            "active_cases": 2781883,
+            "deaths": 334424,
+            "recovered": 2083483,
+            "critical": 44060,
+            "tested": 60522732,
+            "death_ratio": 0.06431490502501062,
+            "recovery_ratio": 0.4006859892418732
+        },
+        "2020-05-20": {
+            "total_cases": 5090642,
+            "active_cases": 2736197,
+            "deaths": 329550,
+            "recovered": 2024895,
+            "critical": 44223,
+            "tested": 60149759,
+            "death_ratio": 0.06473643206495369,
+            "recovery_ratio": 0.3977681007621436
+        },
+        "2020-05-19": {
+            "total_cases": 4991285,
+            "active_cases": 2705411,
+            "deaths": 324735,
+            "recovered": 1961139,
+            "critical": 43865,
+            "tested": 57144730,
+            "death_ratio": 0.065060400277684,
+            "recovery_ratio": 0.39291264674327353
+        },
+        "2020-05-18": {
+            "total_cases": 4897289,
+            "active_cases": 2668700,
+            "deaths": 320292,
+            "recovered": 1908297,
+            "critical": 43139,
+            "tested": 55858471,
+            "death_ratio": 0.06540189888732317,
+            "recovery_ratio": 0.3896639548942282
+        },
+        "2020-05-17": {
+            "total_cases": 4710614,
+            "active_cases": 2663247,
+            "deaths": 315023,
+            "recovered": 1732344,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.06687514621236212,
+            "recovery_ratio": 0.3677533332172834
+        },
+        "2020-05-16": {
+            "total_cases": 4629575,
+            "active_cases": 2626537,
+            "deaths": 311425,
+            "recovered": 1691613,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.06726859376940648,
+            "recovery_ratio": 0.3653927196340917
+        },
+        "2020-05-15": {
+            "total_cases": 4534673,
+            "active_cases": 2594380,
+            "deaths": 307108,
+            "recovered": 1633185,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.06772439820908806,
+            "recovery_ratio": 0.36015496596998287
+        },
+        "2020-05-14": {
+            "total_cases": 4529970,
+            "active_cases": 2522109,
+            "deaths": 303392,
+            "recovered": 1704469,
+            "critical": 43935,
+            "tested": 49545002,
+            "death_ratio": 0.06697439497391815,
+            "recovery_ratio": 0.3762649642271362
+        },
+        "2020-05-13": {
+            "total_cases": 4434081,
+            "active_cases": 2476679,
+            "deaths": 298060,
+            "recovered": 1659342,
+            "critical": 44314,
+            "tested": 48284286,
+            "death_ratio": 0.06722024248091092,
+            "recovery_ratio": 0.3742245574674887
+        },
+        "2020-05-12": {
+            "total_cases": 4345807,
+            "active_cases": 2452512,
+            "deaths": 292715,
+            "recovered": 1600580,
+            "critical": 44746,
+            "tested": 46598473,
+            "death_ratio": 0.06735572932714223,
+            "recovery_ratio": 0.3683044368974508
+        },
+        "2020-05-11": {
+            "total_cases": 4259749,
+            "active_cases": 2443223,
+            "deaths": 287319,
+            "recovered": 1529207,
+            "critical": 45341,
+            "tested": 45124441,
+            "death_ratio": 0.06744974879975323,
+            "recovery_ratio": 0.35898993109687916
+        },
+        "2020-05-10": {
+            "total_cases": 4185811,
+            "active_cases": 2410432,
+            "deaths": 284017,
+            "recovered": 1491362,
+            "critical": 45401,
+            "tested": 44150347,
+            "death_ratio": 0.06785232300263916,
+            "recovery_ratio": 0.3562898563743083
+        },
+        "2020-05-09": {
+            "total_cases": 4106424,
+            "active_cases": 2387593,
+            "deaths": 280539,
+            "recovered": 1438292,
+            "critical": 46089,
+            "tested": 42803474,
+            "death_ratio": 0.0683171051016651,
+            "recovery_ratio": 0.35025413839389213
+        },
+        "2020-05-08": {
+            "total_cases": 4018183,
+            "active_cases": 2360351,
+            "deaths": 276261,
+            "recovered": 1381571,
+            "critical": 47045,
+            "tested": 41027993,
+            "death_ratio": 0.06875271733517363,
+            "recovery_ratio": 0.3438297857514205
+        },
+        "2020-05-07": {
+            "total_cases": 3920658,
+            "active_cases": 2305547,
+            "deaths": 270681,
+            "recovered": 1344430,
+            "critical": 47343,
+            "tested": 40008009,
+            "death_ratio": 0.06903968670564992,
+            "recovery_ratio": 0.3429092769632036
+        },
+        "2020-05-06": {
+            "total_cases": 3821068,
+            "active_cases": 2260717,
+            "deaths": 264471,
+            "recovered": 1295880,
+            "critical": 46586,
+            "tested": 38405473,
+            "death_ratio": 0.06921389517276322,
+            "recovery_ratio": 0.3391407847230146
+        },
+        "2020-05-05": {
+            "total_cases": 3731522,
+            "active_cases": 2230482,
+            "deaths": 258318,
+            "recovered": 1242722,
+            "critical": 47704,
+            "tested": 37048644,
+            "death_ratio": 0.06922590835589339,
+            "recovery_ratio": 0.33303354502532745
+        },
+        "2020-05-04": {
+            "total_cases": 3649233,
+            "active_cases": 2200146,
+            "deaths": 252302,
+            "recovered": 1196785,
+            "critical": 48012,
+            "tested": 36069275,
+            "death_ratio": 0.06913836414391737,
+            "recovery_ratio": 0.3279552168907823
+        },
+        "2020-05-03": {
+            "total_cases": 3569971,
+            "active_cases": 2163714,
+            "deaths": 248395,
+            "recovered": 1157862,
+            "critical": 48428,
+            "tested": 34946196,
+            "death_ratio": 0.06957899658008426,
+            "recovery_ratio": 0.3243337270806962
+        },
+        "2020-05-02": {
+            "total_cases": 3487196,
+            "active_cases": 2116716,
+            "deaths": 244883,
+            "recovered": 1125597,
+            "critical": 49249,
+            "tested": 33429735,
+            "death_ratio": 0.07022346894180884,
+            "recovery_ratio": 0.32277996418899313
+        },
+        "2020-05-01": {
+            "total_cases": 3405626,
+            "active_cases": 2080267,
+            "deaths": 239758,
+            "recovered": 1085601,
+            "critical": 49720,
+            "tested": 32354880,
+            "death_ratio": 0.07040056659186887,
+            "recovery_ratio": 0.31876694622368984
+        },
+        "2020-04-30": {
+            "total_cases": 3311244,
+            "active_cases": 2034630,
+            "deaths": 234144,
+            "recovered": 1042470,
+            "critical": 49347,
+            "tested": 30657192,
+            "death_ratio": 0.07071179290925103,
+            "recovery_ratio": 0.31482729753530697
+        },
+        "2020-04-29": {
+            "total_cases": 3223419,
+            "active_cases": 1992732,
+            "deaths": 228247,
+            "recovered": 1002440,
+            "critical": 58197,
+            "tested": 29221520,
+            "death_ratio": 0.07080897643154675,
+            "recovery_ratio": 0.31098656426607896
+        },
+        "2020-04-28": {
+            "total_cases": 3145779,
+            "active_cases": 1971634,
+            "deaths": 218077,
+            "recovered": 956068,
+            "critical": 55692,
+            "tested": 27642375,
+            "death_ratio": 0.0693236873918988,
+            "recovery_ratio": 0.30392090480609096
+        },
+        "2020-04-27": {
+            "total_cases": 3065838,
+            "active_cases": 1931662,
+            "deaths": 211520,
+            "recovered": 922656,
+            "critical": 54666,
+            "tested": 26556569,
+            "death_ratio": 0.06899255603198864,
+            "recovery_ratio": 0.30094740818008
+        },
+        "2020-04-26": {
+            "total_cases": 2992639,
+            "active_cases": 1909096,
+            "deaths": 206883,
+            "recovered": 876660,
+            "critical": 57591,
+            "tested": 27961947,
+            "death_ratio": 0.06913062350654389,
+            "recovery_ratio": 0.2929387741053966
+        },
+        "2020-04-25": {
+            "total_cases": 2915600,
+            "active_cases": 1878738,
+            "deaths": 203042,
+            "recovered": 833820,
+            "critical": 58178,
+            "tested": 26828389,
+            "death_ratio": 0.06963986829469063,
+            "recovery_ratio": 0.28598573192481824
+        },
+        "2020-04-24": {
+            "total_cases": 2826673,
+            "active_cases": 1849069,
+            "deaths": 196972,
+            "recovered": 780632,
+            "critical": 58386,
+            "tested": 25543069,
+            "death_ratio": 0.0696833344359252,
+            "recovery_ratio": 0.2761663623631032
+        },
+        "2020-04-23": {
+            "total_cases": 2714995,
+            "active_cases": 1780231,
+            "deaths": 190397,
+            "recovered": 744367,
+            "critical": 58678,
+            "tested": 24236250,
+            "death_ratio": 0.07012793762051127,
+            "recovery_ratio": 0.2741688290402008
+        },
+        "2020-04-22": {
+            "total_cases": 2639911,
+            "active_cases": 1735572,
+            "deaths": 184155,
+            "recovered": 720184,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.06975803350946301,
+            "recovery_ratio": 0.27280616657152457
+        },
+        "2020-04-21": {
+            "total_cases": 2567422,
+            "active_cases": 1699045,
+            "deaths": 177520,
+            "recovered": 690857,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.0691432884815975,
+            "recovery_ratio": 0.269085876805605
+        },
+        "2020-04-20": {
+            "total_cases": 2485478,
+            "active_cases": 1666899,
+            "deaths": 170488,
+            "recovered": 648091,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.06859364677538887,
+            "recovery_ratio": 0.2607510507033255
+        },
+        "2020-04-19": {
+            "total_cases": 2411168,
+            "active_cases": 1618939,
+            "deaths": 165206,
+            "recovered": 627023,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.06851700088919561,
+            "recovery_ratio": 0.26004948638999853
+        },
+        "2020-04-18": {
+            "total_cases": 2334354,
+            "active_cases": 1576149,
+            "deaths": 160609,
+            "recovered": 597596,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.06880233246542726,
+            "recovery_ratio": 0.2560005894564406
+        },
+        "2020-04-17": {
+            "total_cases": 2255135,
+            "active_cases": 1528462,
+            "deaths": 154293,
+            "recovered": 572380,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.06841852039900051,
+            "recovery_ratio": 0.2538118560529636
+        },
+        "2020-04-16": {
+            "total_cases": 2185377,
+            "active_cases": 1491280,
+            "deaths": 145595,
+            "recovered": 548502,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.06662237224973082,
+            "recovery_ratio": 0.2509873582452822
+        },
+        "2020-04-15": {
+            "total_cases": 2082277,
+            "active_cases": 1432837,
+            "deaths": 134484,
+            "recovered": 514956,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.06458506721247942,
+            "recovery_ratio": 0.24730427315866238
+        },
+        "2020-04-14": {
+            "total_cases": 1999607,
+            "active_cases": 1395295,
+            "deaths": 126622,
+            "recovered": 477690,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.06332344305656061,
+            "recovery_ratio": 0.2388919422666554
+        },
+        "2020-04-13": {
+            "total_cases": 2024714,
+            "active_cases": 1452708,
+            "deaths": 119683,
+            "recovered": 452323,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.059111064575046154,
+            "recovery_ratio": 0.2234009346505235
+        },
+        "2020-04-12": {
+            "total_cases": 1505331,
+            "active_cases": 1080364,
+            "deaths": 92519,
+            "recovered": 332448,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.06146090129014815,
+            "recovery_ratio": 0.22084710937328733
+        },
+        "2020-04-11": {
+            "total_cases": 1771514,
+            "active_cases": 1260901,
+            "deaths": 108503,
+            "recovered": 402110,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.061248739778517136,
+            "recovery_ratio": 0.22698663403168137
+        },
+        "2020-04-10": {
+            "total_cases": 1691719,
+            "active_cases": 1213098,
+            "deaths": 102525,
+            "recovered": 376096,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.060604036485964866,
+            "recovery_ratio": 0.22231588106535424
+        },
+        "2020-04-09": {
+            "total_cases": 1595350,
+            "active_cases": 1145920,
+            "deaths": 95455,
+            "recovered": 353975,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.05983326542764911,
+            "recovery_ratio": 0.2218792114583007
+        },
+        "2020-04-08": {
+            "total_cases": 1511104,
+            "active_cases": 1094105,
+            "deaths": 88338,
+            "recovered": 328661,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.05845924569056796,
+            "recovery_ratio": 0.21749727351658124
+        },
+        "2020-04-07": {
+            "total_cases": 1426096,
+            "active_cases": 1044177,
+            "deaths": 81865,
+            "recovered": 300054,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.05740497133432813,
+            "recovery_ratio": 0.21040238525316668
+        },
+        "2020-04-06": {
+            "total_cases": 1345048,
+            "active_cases": 993968,
+            "deaths": 74565,
+            "recovered": 276515,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.055436683300521615,
+            "recovery_ratio": 0.20558002390992738
+        },
+        "2020-04-05": {
+            "total_cases": 1272115,
+            "active_cases": 1202741,
+            "deaths": 69374,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.05453437778817167,
+            "recovery_ratio": 0
+        },
+        "2020-04-04": {
+            "total_cases": 1197405,
+            "active_cases": 1132799,
+            "deaths": 64606,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.05395501104471753,
+            "recovery_ratio": 0
+        },
+        "2020-04-03": {
+            "total_cases": 1095917,
+            "active_cases": 1037130,
+            "deaths": 58787,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.05364183601495369,
+            "recovery_ratio": 0
+        },
+        "2020-04-02": {
+            "total_cases": 1013157,
+            "active_cases": 960174,
+            "deaths": 52983,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.052294955273466996,
+            "recovery_ratio": 0
+        },
+        "2020-04-01": {
+            "total_cases": 932605,
+            "active_cases": 885796,
+            "deaths": 46809,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.050191667426187934,
+            "recovery_ratio": 0
+        },
+        "2020-03-31": {
+            "total_cases": 857487,
+            "active_cases": 815380,
+            "deaths": 42107,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.04910511762860545,
+            "recovery_ratio": 0
+        },
+        "2020-03-30": {
+            "total_cases": 782365,
+            "active_cases": 744783,
+            "deaths": 37582,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.048036402446428456,
+            "recovery_ratio": 0
+        },
+        "2020-03-29": {
+            "total_cases": 720117,
+            "active_cases": 686192,
+            "deaths": 33925,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.04711040011553678,
+            "recovery_ratio": 0
+        },
+        "2020-03-28": {
+            "total_cases": 660706,
+            "active_cases": 630054,
+            "deaths": 30652,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.046392798006980415,
+            "recovery_ratio": 0
+        },
+        "2020-03-27": {
+            "total_cases": 593291,
+            "active_cases": 566093,
+            "deaths": 27198,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.04584259663470371,
+            "recovery_ratio": 0
+        },
+        "2020-03-26": {
+            "total_cases": 529591,
+            "active_cases": 505621,
+            "deaths": 23970,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.04526134318747864,
+            "recovery_ratio": 0
+        },
+        "2020-03-25": {
+            "total_cases": 467653,
+            "active_cases": 446472,
+            "deaths": 21181,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.045292128993078204,
+            "recovery_ratio": 0
+        },
+        "2020-03-24": {
+            "total_cases": 418045,
+            "active_cases": 399420,
+            "deaths": 18625,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.044552619933260776,
+            "recovery_ratio": 0
+        },
+        "2020-03-23": {
+            "total_cases": 378235,
+            "active_cases": 361730,
+            "deaths": 16505,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.04363689240815895,
+            "recovery_ratio": 0
+        },
+        "2020-03-22": {
+            "total_cases": 336953,
+            "active_cases": 322302,
+            "deaths": 14651,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.04348084154169869,
+            "recovery_ratio": 0
+        },
+        "2020-03-21": {
+            "total_cases": 304396,
+            "active_cases": 291423,
+            "deaths": 12973,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.04261882547733873,
+            "recovery_ratio": 0
+        },
+        "2020-03-20": {
+            "total_cases": 272035,
+            "active_cases": 260736,
+            "deaths": 11299,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.041535096586836254,
+            "recovery_ratio": 0
+        },
+        "2020-03-19": {
+            "total_cases": 242500,
+            "active_cases": 232633,
+            "deaths": 9867,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.04068865979381443,
+            "recovery_ratio": 0
+        },
+        "2020-03-18": {
+            "total_cases": 214821,
+            "active_cases": 206088,
+            "deaths": 8733,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.04065245017945173,
+            "recovery_ratio": 0
+        },
+        "2020-03-17": {
+            "total_cases": 197102,
+            "active_cases": 189197,
+            "deaths": 7905,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.04010613793873223,
+            "recovery_ratio": 0
+        },
+        "2020-03-16": {
+            "total_cases": 181574,
+            "active_cases": 174448,
+            "deaths": 7126,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.039245706984480155,
+            "recovery_ratio": 0
+        },
+        "2020-03-15": {
+            "total_cases": 167454,
+            "active_cases": 161014,
+            "deaths": 6440,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.038458322882702116,
+            "recovery_ratio": 0
+        },
+        "2020-03-14": {
+            "total_cases": 156101,
+            "active_cases": 150282,
+            "deaths": 5819,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.03727714748784441,
+            "recovery_ratio": 0
+        },
+        "2020-03-13": {
+            "total_cases": 145205,
+            "active_cases": 139801,
+            "deaths": 5404,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.03721634929926655,
+            "recovery_ratio": 0
+        },
+        "2020-03-12": {
+            "total_cases": 128352,
+            "active_cases": 123632,
+            "deaths": 4720,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.03677387185240588,
+            "recovery_ratio": 0
+        },
+        "2020-03-11": {
+            "total_cases": 125875,
+            "active_cases": 121260,
+            "deaths": 4615,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.03666335650446872,
+            "recovery_ratio": 0
+        },
+        "2020-03-10": {
+            "total_cases": 118620,
+            "active_cases": 114358,
+            "deaths": 4262,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.035929860057325916,
+            "recovery_ratio": 0
+        },
+        "2020-03-09": {
+            "total_cases": 113590,
+            "active_cases": 109602,
+            "deaths": 3988,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.03510872435953869,
+            "recovery_ratio": 0
+        },
+        "2020-03-08": {
+            "total_cases": 109821,
+            "active_cases": 106019,
+            "deaths": 3802,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.03461997250070569,
+            "recovery_ratio": 0
+        },
+        "2020-03-07": {
+            "total_cases": 105847,
+            "active_cases": 102289,
+            "deaths": 3558,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.033614556860373936,
+            "recovery_ratio": 0
+        },
+        "2020-03-06": {
+            "total_cases": 101801,
+            "active_cases": 98341,
+            "deaths": 3460,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.03398787831160794,
+            "recovery_ratio": 0
+        },
+        "2020-03-05": {
+            "total_cases": 97886,
+            "active_cases": 94538,
+            "deaths": 3348,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.03420305253049466,
+            "recovery_ratio": 0
+        },
+        "2020-03-04": {
+            "total_cases": 95120,
+            "active_cases": 91866,
+            "deaths": 3254,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.0342094196804037,
+            "recovery_ratio": 0
+        },
+        "2020-03-03": {
+            "total_cases": 92840,
+            "active_cases": 89680,
+            "deaths": 3160,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.034037052994398964,
+            "recovery_ratio": 0
+        },
+        "2020-03-02": {
+            "total_cases": 90306,
+            "active_cases": 87221,
+            "deaths": 3085,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.03416162824175581,
+            "recovery_ratio": 0
+        },
+        "2020-03-01": {
+            "total_cases": 88369,
+            "active_cases": 85373,
+            "deaths": 2996,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.03390329187837364,
+            "recovery_ratio": 0
+        },
+        "2020-02-29": {
+            "total_cases": 86011,
+            "active_cases": 83070,
+            "deaths": 2941,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.03419330085686714,
+            "recovery_ratio": 0
+        },
+        "2020-02-28": {
+            "total_cases": 84112,
+            "active_cases": 81240,
+            "deaths": 2872,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.034144949591021496,
+            "recovery_ratio": 0
+        },
+        "2020-02-27": {
+            "total_cases": 82746,
+            "active_cases": 79932,
+            "deaths": 2814,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.034007686172141255,
+            "recovery_ratio": 0
+        },
+        "2020-02-26": {
+            "total_cases": 81388,
+            "active_cases": 78618,
+            "deaths": 2770,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.03403450140069789,
+            "recovery_ratio": 0
+        },
+        "2020-02-25": {
+            "total_cases": 80406,
+            "active_cases": 77698,
+            "deaths": 2708,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.03367907867572072,
+            "recovery_ratio": 0
+        },
+        "2020-02-24": {
+            "total_cases": 79561,
+            "active_cases": 76932,
+            "deaths": 2629,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.03304382800618393,
+            "recovery_ratio": 0
+        },
+        "2020-02-23": {
+            "total_cases": 78958,
+            "active_cases": 76489,
+            "deaths": 2469,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.03126978900174777,
+            "recovery_ratio": 0
+        },
+        "2020-02-22": {
+            "total_cases": 78572,
+            "active_cases": 76114,
+            "deaths": 2458,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.03128340884793565,
+            "recovery_ratio": 0
+        },
+        "2020-02-21": {
+            "total_cases": 76819,
+            "active_cases": 74568,
+            "deaths": 2251,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.029302646480688373,
+            "recovery_ratio": 0
+        },
+        "2020-02-20": {
+            "total_cases": 76197,
+            "active_cases": 73950,
+            "deaths": 2247,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.02948934997440844,
+            "recovery_ratio": 0
+        },
+        "2020-02-19": {
+            "total_cases": 75639,
+            "active_cases": 73517,
+            "deaths": 2122,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.028054310606962018,
+            "recovery_ratio": 0
+        },
+        "2020-02-18": {
+            "total_cases": 75136,
+            "active_cases": 73129,
+            "deaths": 2007,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.026711563032367974,
+            "recovery_ratio": 0
+        },
+        "2020-02-17": {
+            "total_cases": 73258,
+            "active_cases": 71390,
+            "deaths": 1868,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.02549892161948183,
+            "recovery_ratio": 0
+        },
+        "2020-02-16": {
+            "total_cases": 71224,
+            "active_cases": 69454,
+            "deaths": 1770,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.024851173761653376,
+            "recovery_ratio": 0
+        },
+        "2020-02-15": {
+            "total_cases": 69030,
+            "active_cases": 67364,
+            "deaths": 1666,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.02413443430392583,
+            "recovery_ratio": 0
+        },
+        "2020-02-14": {
+            "total_cases": 66885,
+            "active_cases": 65362,
+            "deaths": 1523,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.022770426852059506,
+            "recovery_ratio": 0
+        },
+        "2020-02-13": {
+            "total_cases": 60368,
+            "active_cases": 58997,
+            "deaths": 1371,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.022710707659687253,
+            "recovery_ratio": 0
+        },
+        "2020-02-12": {
+            "total_cases": 45221,
+            "active_cases": 44103,
+            "deaths": 1118,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.02472302691227527,
+            "recovery_ratio": 0
+        },
+        "2020-02-11": {
+            "total_cases": 44802,
+            "active_cases": 43689,
+            "deaths": 1113,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.02484264095352886,
+            "recovery_ratio": 0
+        },
+        "2020-02-10": {
+            "total_cases": 42762,
+            "active_cases": 41749,
+            "deaths": 1013,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.023689256816799963,
+            "recovery_ratio": 0
+        },
+        "2020-02-09": {
+            "total_cases": 40150,
+            "active_cases": 39244,
+            "deaths": 906,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.0225653798256538,
+            "recovery_ratio": 0
+        },
+        "2020-02-08": {
+            "total_cases": 37120,
+            "active_cases": 36314,
+            "deaths": 806,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.021713362068965517,
+            "recovery_ratio": 0
+        },
+        "2020-02-07": {
+            "total_cases": 34391,
+            "active_cases": 33672,
+            "deaths": 719,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.020906632549213457,
+            "recovery_ratio": 0
+        },
+        "2020-02-06": {
+            "total_cases": 30794,
+            "active_cases": 30160,
+            "deaths": 634,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.020588426316814963,
+            "recovery_ratio": 0
+        },
+        "2020-02-05": {
+            "total_cases": 27635,
+            "active_cases": 27071,
+            "deaths": 564,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.020408901755020806,
+            "recovery_ratio": 0
+        },
+        "2020-02-04": {
+            "total_cases": 23892,
+            "active_cases": 23400,
+            "deaths": 492,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.02059266700150678,
+            "recovery_ratio": 0
+        },
+        "2020-02-03": {
+            "total_cases": 19881,
+            "active_cases": 19455,
+            "deaths": 426,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.02142749358684171,
+            "recovery_ratio": 0
+        },
+        "2020-02-02": {
+            "total_cases": 16787,
+            "active_cases": 16425,
+            "deaths": 362,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.021564305712753917,
+            "recovery_ratio": 0
+        },
+        "2020-02-01": {
+            "total_cases": 12038,
+            "active_cases": 11779,
+            "deaths": 259,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.021515201860774213,
+            "recovery_ratio": 0
+        },
+        "2020-01-31": {
+            "total_cases": 9927,
+            "active_cases": 9714,
+            "deaths": 213,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.021456633423995165,
+            "recovery_ratio": 0
+        },
+        "2020-01-30": {
+            "total_cases": 8234,
+            "active_cases": 8063,
+            "deaths": 171,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.020767549186300704,
+            "recovery_ratio": 0
+        },
+        "2020-01-29": {
+            "total_cases": 6166,
+            "active_cases": 6033,
+            "deaths": 133,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.021569899448589037,
+            "recovery_ratio": 0
+        },
+        "2020-01-28": {
+            "total_cases": 5578,
+            "active_cases": 5447,
+            "deaths": 131,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.023485120114736465,
+            "recovery_ratio": 0
+        },
+        "2020-01-27": {
+            "total_cases": 2927,
+            "active_cases": 2845,
+            "deaths": 82,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.02801503245644004,
+            "recovery_ratio": 0
+        },
+        "2020-01-26": {
+            "total_cases": 2118,
+            "active_cases": 2062,
+            "deaths": 56,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.02644003777148253,
+            "recovery_ratio": 0
+        },
+        "2020-01-25": {
+            "total_cases": 1434,
+            "active_cases": 1392,
+            "deaths": 42,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.029288702928870293,
+            "recovery_ratio": 0
+        },
+        "2020-01-24": {
+            "total_cases": 941,
+            "active_cases": 915,
+            "deaths": 26,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.02763018065887354,
+            "recovery_ratio": 0
+        },
+        "2020-01-23": {
+            "total_cases": 654,
+            "active_cases": 636,
+            "deaths": 18,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.027522935779816515,
+            "recovery_ratio": 0
+        },
+        "2020-01-22": {
+            "total_cases": 555,
+            "active_cases": 538,
+            "deaths": 17,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0.03063063063063063,
+            "recovery_ratio": 0
+        },
+        "2020-01-21": {
+            "total_cases": 0,
+            "active_cases": 0,
+            "deaths": 0,
+            "recovered": 0,
+            "critical": 0,
+            "tested": 0,
+            "death_ratio": 0,
+            "recovery_ratio": 0
+        }
+    }
+}
