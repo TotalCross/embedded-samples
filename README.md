@@ -35,7 +35,7 @@ These are our samples:
 | TotalCross Hello World | first application (Hello World) using TotalCross | [hello-world-master](https://github.com/TotalCross/knowcode-samples/tree/main/hello-world-master) |     
 | Printer | Example of a graphical printer user interface | [printer-Application-sample](https://github.com/TotalCross/knowcode-samples/tree/main/printer-Application-sample) |     
 | Expanding Raspberry Pi ports | Expanding the Raspberry Pi ports using an Arduino | [rpi-expansion-ports-master](https://github.com/TotalCross/knowcode-samples/tree/main/rpi-expansion-ports-master) |     
-| Toradex Launcher | Toradex Launcher Sample | [toradex-launcher-sample](https://github.com/TotalCross/knowcode-samples/tree/main/toradex-launcher-sample) |     
+| Toradex Launcher | Responsive sample to run on Toradex launche | [toradex-launcher-sample](https://github.com/TotalCross/knowcode-samples/tree/main/toradex-launcher-sample) | 
 | Home Appliance | Sample of Home Automation | [HomeAplianceXML](https://github.com/TotalCross/knowcode-samples/tree/main/HomeApplianceXML) |     
 
 They are available for download here:
