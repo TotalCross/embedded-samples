@@ -33,7 +33,7 @@ These are our samples:
 | Dashboard | Graphical User Interfce of a panel that uses several functions of embedded systems | [dashboard-sample](https://github.com/TotalCross/knowcode-samples/tree/main/dashboard-sample) |     
 | KnowCode Hello World | First application (Hello World) using KnowCode | [hello-knowcode](https://github.com/TotalCross/knowcode-samples/tree/main/hello-knowcode) |     
 | TotalCross Hello World | first application (Hello World) using TotalCross | [hello-world](https://github.com/TotalCross/knowcode-samples/tree/main/hello-world) |     
-| Printer | Example of a graphical printer user interface | [printer-application-sample](https://github.com/TotalCross/knowcode-samples/tree/main/printer-application-sample) |     
+| Printer | Example of a graphical printer user interface | [printer-application](https://github.com/TotalCross/knowcode-samples/tree/main/printer-application) |     
 | Expanding Raspberry Pi ports | Expanding the Raspberry Pi ports using an Arduino | [rpi-expansion-ports-sample](https://github.com/TotalCross/knowcode-samples/tree/main/rpi-expansion-ports-sample) |     
 | Toradex Launcher | Responsive sample to run on Toradex launcher | [toradex-launcher-sample](https://github.com/TotalCross/knowcode-samples/tree/main/toradex-launcher-sample) | 
 | Home Appliance | Sample of Home Automation | [home-applianceXML](https://github.com/TotalCross/knowcode-samples/tree/main/home-appliance) |     
