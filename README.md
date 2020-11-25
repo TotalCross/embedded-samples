@@ -27,16 +27,16 @@ These are our samples:
 
 |Sample Name | Description | Project Name  | 
 |:-:|---|---|
-| Bad Apple | Bad Apple animation running at 60 fps with totalcross for Linux Arm | [BadApple-master](https://github.com/TotalCross/knowcode-samples/tree/main/BadApple-master) |
-| Breakout | Breakout game built with totalcross para Linux arm e Android | [breakout-master](https://github.com/TotalCross/knowcode-samples/tree/main/breakout-master) |     
-| Corona chart | Animated coronavirus data chart | [corona-chart-app-master](https://github.com/TotalCross/knowcode-samples/tree/main/corona-chart-app-master) |     
-| Dashboard | Graphical User Interfce of a panel that uses several functions of embedded systems | [dashboard-sample-master](https://github.com/TotalCross/knowcode-samples/tree/main/dashboard-sample-master) |     
+| Bad Apple | Bad Apple animation running at 60 fps with totalcross for Linux Arm | [bad-apple](https://github.com/TotalCross/embedded-samples/tree/main/bad-apple) |
+| Breakout | Breakout game built with totalcross para Linux arm e Android | [breakout](https://github.com/TotalCross/knowcode-samples/tree/main/breakout) |     
+| Corona chart | Animated coronavirus data chart | [corona-chart-app](https://github.com/TotalCross/knowcode-samples/tree/main/corona-chart-app) |     
+| Dashboard | Graphical User Interfce of a panel that uses several functions of embedded systems | [dashboard-sample](https://github.com/TotalCross/knowcode-samples/tree/main/dashboard-sample) |     
 | KnowCode Hello World | First application (Hello World) using KnowCode | [hello-knowcode](https://github.com/TotalCross/knowcode-samples/tree/main/hello-knowcode) |     
-| TotalCross Hello World | first application (Hello World) using TotalCross | [hello-world-master](https://github.com/TotalCross/knowcode-samples/tree/main/hello-world-master) |     
-| Printer | Example of a graphical printer user interface | [printer-Application-sample](https://github.com/TotalCross/knowcode-samples/tree/main/printer-Application-sample) |     
-| Expanding Raspberry Pi ports | Expanding the Raspberry Pi ports using an Arduino | [rpi-expansion-ports-master](https://github.com/TotalCross/knowcode-samples/tree/main/rpi-expansion-ports-master) |     
-| Toradex Launcher | Responsive sample to run on Toradex launche | [toradex-launcher-sample](https://github.com/TotalCross/knowcode-samples/tree/main/toradex-launcher-sample) | 
-| Home Appliance | Sample of Home Automation | [HomeAplianceXML](https://github.com/TotalCross/knowcode-samples/tree/main/HomeApplianceXML) |     
+| TotalCross Hello World | first application (Hello World) using TotalCross | [hello-world](https://github.com/TotalCross/knowcode-samples/tree/main/hello-world) |     
+| Printer | Example of a graphical printer user interface | [printer-application-sample](https://github.com/TotalCross/knowcode-samples/tree/main/printer-application-sample) |     
+| Expanding Raspberry Pi ports | Expanding the Raspberry Pi ports using an Arduino | [rpi-expansion-ports-sample](https://github.com/TotalCross/knowcode-samples/tree/main/rpi-expansion-ports-sample) |     
+| Toradex Launcher | Responsive sample to run on Toradex launcher | [toradex-launcher-sample](https://github.com/TotalCross/knowcode-samples/tree/main/toradex-launcher-sample) | 
+| Home Appliance | Sample of Home Automation | [home-applianceXML](https://github.com/TotalCross/knowcode-samples/tree/main/home-appliance) |     
 
 They are available for download here:
 
