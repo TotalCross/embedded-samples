@@ -15,7 +15,7 @@
 		<dependency>
 			<groupId>com.totalcross</groupId>
 			<artifactId>totalcross-sdk</artifactId>
-			<version>6.1.0</version>
+			<version>6.1.1</version>
 		</dependency>
         <dependency>
             <groupId>com.totalcross.knowcode</groupId>
