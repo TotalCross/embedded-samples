@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.totalcross.sample</groupId>
-  <artifactId>KnowcodeUseCase</artifactId>
+  <artifactId>KnowcodeSamples</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>KnowcodeSamples</name>
 
