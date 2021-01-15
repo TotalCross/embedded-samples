@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                                   xmlns:app="http://schemas.android.com/apk/res-auto"
+                                                   xmlns:tools="http://schemas.android.com/tools"
+                                                   android:id="@+id/linearLayout"
+                                                   android:layout_width="960dp"
+                                                   android:layout_height="640dp"
+                                                   android:background="@drawable/background">
+
+    <ImageView
+            android:id="@+id/backgroundImage"
+            android:layout_width="960dp"
+            android:layout_height="640dp"
+            android:background="@drawable/background"/>
+    <TextView
+            android:id="@+id/oxygenTopLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteX="22dp"
+            tools:layout_editor_absoluteY="26dp"
+            android:textSize="50dp"
+            android:text="OXYGEN"
+            android:textColor="#FFFFFF" />
+    <TextView
+            android:id="@+id/timeLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteX="33dp"
+            tools:layout_editor_absoluteY="582dp"
+            android:textSize="20dp"
+            android:text="2:45PM - THU, 30/08/20"
+            android:textColor="#FFFFFF" />
+    <TextView
+            android:id="@+id/oxygenLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteX="35dp"
+            tools:layout_editor_absoluteY="208dp"
+            android:textSize="150dp"
+            android:text="84"
+            android:textColor="#00A8DB" />
+    <TextView
+            android:id="@+id/percentLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteX="207dp"
+            tools:layout_editor_absoluteY="246dp"
+            android:textSize="50dp"
+            android:text="%"
+            android:textColor="#00A8DB" />
+    <TextView
+            android:id="@+id/oxygenMinMaxLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteX="79dp"
+            tools:layout_editor_absoluteY="394dp"
+            android:textSize="24dp"
+            android:text="85 / 99"
+            android:textColor="#00A8DB" />
+
+    <TextView
+            android:id="@+id/oxygenMinMaxLabel2"
+            android:layout_width="42dp"
+            android:layout_height="1dp"
+            android:background="#00A8DB"
+            android:text=""
+            android:textSize="24dp"
+            tools:layout_editor_absoluteX="93dp"
+            tools:layout_editor_absoluteY="390dp" />
+
+    <ImageView
+            android:id="@+id/lungsImage"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            tools:layout_editor_absoluteX="300dp"
+            tools:layout_editor_absoluteY="270dp"
+            android:background="@drawable/lungs" />
+    <TextView
+            android:id="@+id/lungsLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteX="324dp"
+            tools:layout_editor_absoluteY="394dp"
+            android:textSize="24dp"
+            android:text="SpO2"
+            android:textColor="#00A8DB" />
+
+    <TextView
+            android:id="@+id/pulseTopLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteX="761dp"
+            tools:layout_editor_absoluteY="26dp"
+            android:textSize="50dp"
+            android:text="PULSE"
+            android:textColor="#FFFFFF" />
+    <TextView
+            android:id="@+id/pulseLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteX="749dp"
+            tools:layout_editor_absoluteY="208dp"
+            android:textSize="150dp"
+            android:text="77"
+            android:textColor="#FF0000" />
+    <TextView
+            android:id="@+id/pulseMinMaxLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteX="786dp"
+            tools:layout_editor_absoluteY="394dp"
+            android:textSize="24dp"
+            android:text="50 / 130"
+            android:textColor="#FF0000" />
+
+    <TextView
+            android:id="@+id/pulseMinMaxLabel2"
+            android:layout_width="58dp"
+            android:layout_height="1dp"
+            android:text=""
+            android:background="#FF0000"
+            android:textSize="24dp"
+            tools:layout_editor_absoluteX="799dp"
+            tools:layout_editor_absoluteY="390dp" />
+
+    <ImageView
+            android:id="@+id/heartImage"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            tools:layout_editor_absoluteX="565dp"
+            tools:layout_editor_absoluteY="275dp"
+            android:background="@drawable/heart" />
+    <TextView
+            android:id="@+id/heartLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteX="591dp"
+            tools:layout_editor_absoluteY="394dp"
+            android:textSize="24dp"
+            android:text="BPM"
+            android:textColor="#FF0000" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

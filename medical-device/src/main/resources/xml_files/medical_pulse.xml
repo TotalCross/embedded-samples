@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                                   xmlns:app="http://schemas.android.com/apk/res-auto"
+                                                   xmlns:tools="http://schemas.android.com/tools"
+                                                   android:id="@+id/linearLayout3"
+                                                   android:layout_width="960dp"
+                                                   android:layout_height="640dp"
+                                                   android:background="#460000">
+
+    <ImageButton
+            android:id="@+id/imageButton"
+            android:layout_width="40dp"
+            android:layout_height="640dp"
+            android:background="@drawable/arrowPulseScreen"/>
+
+    <TextView
+            android:id="@+id/titleLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteX="88dp"
+            tools:layout_editor_absoluteY="28dp"
+            android:textSize="50dp"
+            android:text="PULSE"
+            android:textColor="#FFFFFF"
+    />
+    <TextView
+            android:id="@+id/pulseLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteX="68dp"
+            tools:layout_editor_absoluteY="103dp"
+            android:textSize="150dp"
+            android:text="84"
+            android:textColor="#FF0000"
+    />
+    <TextView
+            android:id="@+id/pulseMinMaxLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteX="105dp"
+            tools:layout_editor_absoluteY="289dp"
+            android:textSize="24dp"
+            android:text="50 / 130"
+            android:textColor="#FF0000"
+    />
+
+    <TextView
+            android:id="@+id/pulseMinMaxLabel3"
+            android:layout_width="50dp"
+            android:layout_height="1dp"
+            android:text=""
+            android:background="#FF0000"
+            android:textSize="24dp"
+            tools:layout_editor_absoluteX="120dp"
+            tools:layout_editor_absoluteY="284dp" />
+
+    <ImageView
+            android:id="@+id/heartImage"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            tools:layout_editor_absoluteX="316dp"
+            tools:layout_editor_absoluteY="183dp"
+            android:background="@drawable/heartSmaller" />
+    <TextView
+            android:id="@+id/heartLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteX="335dp"
+            tools:layout_editor_absoluteY="271dp"
+            android:textSize="17dp"
+            android:text="BPM"
+            android:textColor="#FF0000"
+    />
+
+    <TextView
+            android:id="@+id/maxBPMLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteX="568dp"
+            tools:layout_editor_absoluteY="36dp"
+            android:textSize="25dp"
+            android:text="MAX BPM"
+            android:textColor="#FFFFFF"
+    />
+    <TextView
+            android:id="@+id/minBPMLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteX="570dp"
+            tools:layout_editor_absoluteY="345dp"
+            android:textSize="25dp"
+            android:text="MIN BPM"
+            android:textColor="#FFFFFF"
+    />
+
+    <TextView
+            android:id="@+id/controlsLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteX="777dp"
+            tools:layout_editor_absoluteY="36dp"
+            android:textSize="25dp"
+            android:text="CONTROLS"
+            android:textColor="#FFFFFF"
+    />
+    <TextView
+            android:id="@+id/notifyLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteX="796dp"
+            tools:layout_editor_absoluteY="84dp"
+            android:textSize="17dp"
+            android:text="NOTIFY"
+            android:textColor="#FF0000"
+    />
+    <TextView
+            android:id="@+id/setAlarmLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteX="796dp"
+            tools:layout_editor_absoluteY="408dp"
+            android:textSize="17dp"
+            android:text="SET ALARM"
+            android:textColor="#FF0000"
+    />
+
+    <Button
+            android:id="@+id/saveButton"
+            android:layout_width="118dp"
+            android:layout_height="65dp"
+            android:text="SAVE"
+            tools:layout_editor_absoluteX="797dp"
+            tools:layout_editor_absoluteY="440dp" />
+    <Button
+            android:id="@+id/cancelButton"
+            android:layout_width="118dp"
+            android:layout_height="65dp"
+            android:text="CANCEL"
+            tools:layout_editor_absoluteX="797dp"
+            tools:layout_editor_absoluteY="523dp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
