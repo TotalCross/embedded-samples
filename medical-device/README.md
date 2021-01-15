@@ -30,7 +30,7 @@ The KnowCode library or this sample doesn't use anything from Android on the dev
 
 ## 📹 Gifs and Screenshots
 
-![Medical Device](https://i.imgur.com/iibtoXt.mp4)
+![Medical Device](https://media2.giphy.com/media/v4jBnB3lTTkTqP5tlV/giphy.gif)
 
 ## :woman_technologist: Usage
 
