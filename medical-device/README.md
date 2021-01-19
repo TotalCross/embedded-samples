@@ -1,7 +1,7 @@
 <div align="center"> <a href="https://totalcross.com/" target="_blank"> <img src="https://github.com/TotalCross/totalcross/blob/master/totalcross.gif" alt="totalcross logo"/></a></div>
 
 <div align="center"> 
-<h1> embedded-samples </h1> </div>
+<h1> Medicinal Device application </h1> </div>
 <p align="center">Sample code illustrating what is possible to build for Linux Arm using TotalCross. </strong></em></p>
 
 <div align="center">
@@ -22,45 +22,25 @@
 
 <div align="center"><img src="https://github.com/TotalCross/totalcross-embedded-samples/workflows/Java%20CI%20with%20Maven/badge.svg"/></div>
 
-## 💻 Samples
-These are our samples:
+## 💻 About the sample
 
-|Sample Name | Description | Project Name  | 
-|:-:|---|---|
-| Bad Apple | Bad Apple animation running at 60 fps with totalcross for Linux Arm | [bad-apple](https://github.com/TotalCross/embedded-samples/tree/main/bad-apple) |
-| Breakout | Breakout game built with totalcross para Linux arm e Android | [breakout](https://github.com/TotalCross/knowcode-samples/tree/main/breakout) |     
-| Corona chart | Animated coronavirus data chart | [corona-chart-app](https://github.com/TotalCross/knowcode-samples/tree/main/corona-chart-app) |     
-| Dashboard | Graphical User Interfce of a panel that uses several functions of embedded systems | [dashboard-sample](https://github.com/TotalCross/knowcode-samples/tree/main/dashboard-sample) |     
-| KnowCode Hello World | First application (Hello World) using KnowCode | [hello-knowcode](https://github.com/TotalCross/knowcode-samples/tree/main/hello-knowcode) |     
-| TotalCross Hello World | first application (Hello World) using TotalCross | [hello-world](https://github.com/TotalCross/knowcode-samples/tree/main/hello-world) |     
-| Printer | Example of a graphical printer user interface | [printer-application](https://github.com/TotalCross/knowcode-samples/tree/main/printer-application) |     
-| Expanding Raspberry Pi ports | Expanding the Raspberry Pi ports using an Arduino | [rpi-expansion-ports-sample](https://github.com/TotalCross/knowcode-samples/tree/main/rpi-expansion-ports-sample) |     
-| Toradex Launcher | Responsive sample to run on Toradex launcher | [toradex-launcher-sample](https://github.com/TotalCross/knowcode-samples/tree/main/toradex-launcher-sample) | 
-| Home Appliance | Sample of Home Automation | [home-applianceXML](https://github.com/TotalCross/knowcode-samples/tree/main/home-appliance) | 
-| Medical Device | Sample of Oxygen and Pulse Monitor  | [medical-device](https://github.com/TotalCross/knowcode-samples/tree/main/medical-device) | 
+We built this sample drawing the UI with Android XML + TotalCross + KnowCode API. Now it is possible to run this sample on Windows Desktop, Linux, Linux ARM (raspberry, Toradex, NXP, etc), iOS, Android, and more.
 
-They are available for download here:
-
-| Version | Source | Binaries |
-|:-:|---|---|
-| v1.0.0 | [Source](https://github.com/TotalCross/totalcross-embedded-samples/archive/v1.0.0.zip) | [Binaries](https://github.com/TotalCross/totalcross-embedded-samples/releases/download/v1.0.0/binaries.zip) |     
+The KnowCode library or this sample doesn't use anything from Android on the device.
 
 ## 📹 Gifs and Screenshots
-### [HomeApplianceXML](https://www.youtube.com/watch?v=ZX_cpSDUCxI&feature=youtu.be):
 
-
-![HomeAplianceXML](https://github.com/TotalCross/totalcross-embedded-samples/blob/master/images/R4L7x9T850.gif)
+![Medical Device](https://media2.giphy.com/media/v4jBnB3lTTkTqP5tlV/giphy.gif)
 
 ## :woman_technologist: Usage
 
 - `git clone https://github.com/TotalCross/embedded-samples/` or download the .zip by clicking the green "Code" button next to repo name and choosing "Download ZIP".
 - If you downloaded .zip file, uncompress it in a folder and open it.
-- If you are using Linux, run `code <embedded-samples>` or open VS Code and Click in "File > Open..." and select totalcross-embedded-samples in the file dialog that will be shown.
-- With project opened in VS Code, navigate to desired sample folder (like HomeApplianceXML).
-- Look for its [SampleName]Application.java and right-click.
+- If you are using Linux, run `code <embedded-samples>` or open VS Code and Click in "File > Open..." and select embedded-samples/MedicalDevice in the file dialog that will be shown.
+- With project opened in VS Code, navigate to desired sample folder (like MedicalDevice).
+- Look for its `RunMedicalDeviceApplication.java` and right-click.
 - Choose the "Run" option in the popup.
-- Alternatively, follow the instructions in each sample's README for setting up and running the sample.
-- Have a nice time developing with TotalCross!
+- Tell us if you liked this sample :smiley:
 
 #### If you prefer to use another IDE, like Eclipse, IntelliJ, on anyother, see [Getting Started](https://learn.totalcross.com/documentation/get-started)
 
