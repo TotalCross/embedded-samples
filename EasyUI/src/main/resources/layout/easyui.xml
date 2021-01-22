@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="848dp"
+    android:layout_height="480dp">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="848dp"
+        android:layout_height="480dp"
+        app:srcCompat="@drawable/background"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <Button
+        android:id="@+id/neutral"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:background="@drawable/neutral"
+        android:text="Button"
+        tools:layout_editor_absoluteX="334dp"
+        tools:layout_editor_absoluteY="200dp" />
+
+    <Button
+        android:id="@+id/sad"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:background="@drawable/sad"
+        android:text="Button"
+        tools:layout_editor_absoluteX="89dp"
+        tools:layout_editor_absoluteY="200dp" />
+
+    <Button
+        android:id="@+id/smile"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:background="@drawable/smile"
+        android:text="Button"
+        tools:layout_editor_absoluteX="582dp"
+        tools:layout_editor_absoluteY="200dp" />
+
+    <TextView
+        android:id="@+id/header"
+        android:layout_width="525dp"
+        android:layout_height="110dp"
+        android:text="How easy is this sample?"
+        android:textColor="#FFFFFF"
+        android:textSize="40dp"
+        android:gravity="center"
+        tools:layout_editor_absoluteX="162dp"
+        tools:layout_editor_absoluteY="52dp" />
+
+    <TextView
+        android:id="@+id/footer"
+        android:layout_width="525dp"
+        android:layout_height="110dp"
+        android:gravity="center"
+        android:text="0 Likes"
+        android:textColor="#FFFFFF"
+        android:textSize="30dp"
+        tools:layout_editor_absoluteX="162dp"
+        tools:layout_editor_absoluteY="380dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
