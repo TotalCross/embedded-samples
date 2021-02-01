@@ -1,9 +1,8 @@
 package com.totalcross.knowcode.printer.copy;
 
-import com.totalcross.knowcode.XMLPresenter;
+import com.totalcross.knowcode.parse.XMLPresenter;
 import com.totalcross.knowcode.parse.XmlContainerFactory;
 import com.totalcross.knowcode.parse.XmlContainerLayout;
-
 import totalcross.ui.Control;
 import totalcross.ui.Label;
 import totalcross.ui.Spinner;
@@ -13,7 +12,7 @@ public class CopyingXML extends XMLPresenter {
     TimerEvent time;
 
     public CopyingXML() {
-        super(XmlContainerFactory.create("xml/COPYING.xml"));
+        super(XmlContainerFactory.create("layout/COPYING.xml"));
     }
 
     @Override

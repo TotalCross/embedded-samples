@@ -1,6 +1,6 @@
 package com.totalcross.knowcode.printer.scan;
 
-import com.totalcross.knowcode.XMLPresenter;
+import com.totalcross.knowcode.parse.XMLPresenter;
 import com.totalcross.knowcode.parse.XmlContainerFactory;
 import com.totalcross.knowcode.parse.XmlContainerLayout;
 
@@ -8,7 +8,7 @@ import totalcross.ui.Control;
 
 public class ScanPhotoXML extends XMLPresenter {
     public ScanPhotoXML() {
-        super(XmlContainerFactory.create("xml/SCAN PHOTO.xml"));
+        super(XmlContainerFactory.create("layout/SCAN PHOTO.xml"));
     }
 
     @Override

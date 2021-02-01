@@ -1,6 +1,5 @@
 package com.totalcross.knowcode.printer.copy;
-
-import com.totalcross.knowcode.XMLPresenter;
+import com.totalcross.knowcode.parse.XMLPresenter;
 import com.totalcross.knowcode.parse.XmlContainerFactory;
 import com.totalcross.knowcode.parse.XmlContainerLayout;
 
@@ -10,7 +9,7 @@ import totalcross.ui.Label;
 
 public class CopyOptionsXML extends XMLPresenter {
     public CopyOptionsXML() {
-        super(XmlContainerFactory.create("xml/COPY OPTIONS.xml"));
+        super(XmlContainerFactory.create("layout/COPY OPTIONS.xml"));
     }
 
     @Override

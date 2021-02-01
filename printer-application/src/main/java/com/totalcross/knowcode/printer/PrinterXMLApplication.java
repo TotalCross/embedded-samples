@@ -1,6 +1,6 @@
 package com.totalcross.knowcode.printer;
 
-import com.totalcross.knowcode.SlidingNavigator;
+import com.totalcross.knowcode.parse.SlidingNavigator;
 import totalcross.sys.Settings;
 import totalcross.ui.MainWindow;
 

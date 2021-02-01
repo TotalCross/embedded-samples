@@ -1,6 +1,6 @@
 package com.totalcross.knowcode.printer;
 
-import com.totalcross.knowcode.XMLPresenter;
+import com.totalcross.knowcode.parse.XMLPresenter;
 import com.totalcross.knowcode.printer.copy.CopyXML;
 import com.totalcross.knowcode.printer.print.PrintXML;
 import com.totalcross.knowcode.printer.scan.ScanXML;

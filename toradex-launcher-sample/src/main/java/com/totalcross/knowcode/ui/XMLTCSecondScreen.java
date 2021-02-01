@@ -1,20 +1,18 @@
 package com.totalcross.knowcode.ui;
 
 
-import com.totalcross.knowcode.XMLPresenter;
+import com.totalcross.knowcode.parse.XMLPresenter;
 import com.totalcross.knowcode.parse.XmlContainerLayout;
 import com.totalcross.knowcode.parse.XmlContainerFactory;
-import totalcross.io.IOException;
 import totalcross.sys.InvalidNumberException;
 import totalcross.sys.Settings;
 import totalcross.ui.*;
 import totalcross.ui.font.Font;
-import totalcross.ui.image.ImageException;
 import totalcross.util.BigDecimal;
 
 public class XMLTCSecondScreen extends XMLPresenter {
     public XMLTCSecondScreen() {
-        super(XmlContainerFactory.create("xml/imxmulti2.xml"));
+        super(XmlContainerFactory.create("layout/imxmulti2.xml"));
     }
     @Override
     public void onPresent() {

@@ -1,6 +1,6 @@
 package com.totalcross.knowcode.printer.scan;
 
-import com.totalcross.knowcode.XMLPresenter;
+import com.totalcross.knowcode.parse.XMLPresenter;
 import com.totalcross.knowcode.parse.XmlContainerFactory;
 import com.totalcross.knowcode.parse.XmlContainerLayout;
 
@@ -9,7 +9,7 @@ import totalcross.ui.Control;
 public class ScanSendSaveXML extends XMLPresenter {
 
     public ScanSendSaveXML() {
-        super(XmlContainerFactory.create("xml/SCAN SEND-SAVE.xml"));
+        super(XmlContainerFactory.create("layout/SCAN SEND-SAVE.xml"));
     }
 
     @Override
