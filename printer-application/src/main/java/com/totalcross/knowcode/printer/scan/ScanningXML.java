@@ -1,9 +1,8 @@
 package com.totalcross.knowcode.printer.scan;
 
-import com.totalcross.knowcode.XMLPresenter;
 import com.totalcross.knowcode.parse.XmlContainerFactory;
 import com.totalcross.knowcode.parse.XmlContainerLayout;
-
+import com.totalcross.knowcode.parse.XMLPresenter;
 import totalcross.ui.Control;
 import totalcross.ui.Label;
 import totalcross.ui.Spinner;
@@ -13,7 +12,7 @@ public class ScanningXML extends XMLPresenter {
     TimerEvent time;
 
     public ScanningXML() {
-        super(XmlContainerFactory.create("xml/SCANNING.xml"));
+        super(XmlContainerFactory.create("layout/SCANNING.xml"));
     }
 
     @Override

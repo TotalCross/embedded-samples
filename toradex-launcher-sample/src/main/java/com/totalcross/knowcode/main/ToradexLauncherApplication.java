@@ -1,7 +1,6 @@
 package com.totalcross.knowcode.main;
 
-import com.totalcross.knowcode.SlidingNavigator;
-
+import com.totalcross.knowcode.parse.SlidingNavigator;
 import com.totalcross.knowcode.ui.XmlMainScreenPresenter;
 import totalcross.sys.Settings;
 import totalcross.ui.MainWindow;

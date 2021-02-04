@@ -1,6 +1,6 @@
 package com.totalcross.knowcode.printer.print;
 
-import com.totalcross.knowcode.XMLPresenter;
+import com.totalcross.knowcode.parse.XMLPresenter;
 import com.totalcross.knowcode.parse.XmlContainerFactory;
 import com.totalcross.knowcode.parse.XmlContainerLayout;
 
@@ -8,7 +8,7 @@ import totalcross.ui.Control;
 
 public class PrintUSBXML extends XMLPresenter {
     public PrintUSBXML() {
-        super(XmlContainerFactory.create("xml/PRINT FROM USB.xml"));
+        super(XmlContainerFactory.create("layout/PRINT FROM USB.xml"));
     }
 
     @Override

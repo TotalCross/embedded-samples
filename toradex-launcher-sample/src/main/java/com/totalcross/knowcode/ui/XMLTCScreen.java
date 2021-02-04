@@ -1,7 +1,7 @@
 package com.totalcross.knowcode.ui;
 
 
-import com.totalcross.knowcode.XMLPresenter;
+import com.totalcross.knowcode.parse.XMLPresenter;
 import com.totalcross.knowcode.parse.XmlContainerLayout;
 import com.totalcross.knowcode.parse.XmlContainerFactory;
 import totalcross.sys.InvalidNumberException;
@@ -12,7 +12,7 @@ import totalcross.util.BigDecimal;
 
 public class XMLTCScreen extends XMLPresenter {
     public XMLTCScreen() {
-        super(XmlContainerFactory.create("xml/imxmulti.xml"));
+        super(XmlContainerFactory.create("layout/imxmulti.xml"));
     }
     @Override
     public void onPresent() {

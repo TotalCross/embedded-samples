@@ -1,6 +1,6 @@
 package com.totalcross.knowcode.printer.scan;
 
-import com.totalcross.knowcode.XMLPresenter;
+import com.totalcross.knowcode.parse.XMLPresenter;
 import com.totalcross.knowcode.parse.XmlContainerFactory;
 import com.totalcross.knowcode.parse.XmlContainerLayout;
 
@@ -9,7 +9,7 @@ import totalcross.ui.Control;
 public class ScanFinishingXML extends XMLPresenter {
 
     public ScanFinishingXML() {
-        super(XmlContainerFactory.create("xml/SCAN FINISHING.xml"));
+        super(XmlContainerFactory.create("layout/SCAN FINISHING.xml"));
     }
 
     @Override

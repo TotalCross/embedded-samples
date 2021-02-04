@@ -1,8 +1,7 @@
 package com.totalcross.knowcode.ui;
 
-import com.totalcross.knowcode.XMLPresenter;
 
-
+import com.totalcross.knowcode.parse.XMLPresenter;
 import totalcross.ui.Button;
 
 public class XmlMainScreenPresenter extends XMLPresenter {

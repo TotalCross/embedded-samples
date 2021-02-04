@@ -1,6 +1,6 @@
 package com.totalcross.knowcode.printer.print;
 
-import com.totalcross.knowcode.XMLPresenter;
+import com.totalcross.knowcode.parse.XMLPresenter;
 import com.totalcross.knowcode.parse.XmlContainerFactory;
 import com.totalcross.knowcode.parse.XmlContainerLayout;
 
@@ -11,7 +11,7 @@ public class PrintTypeXML extends XMLPresenter {
     Container beforeScreen;
 
     public PrintTypeXML() {
-        super(XmlContainerFactory.create("xml/PRINT TYPE.xml"));
+        super(XmlContainerFactory.create("layout/PRINT TYPE.xml"));
     }
 
     @Override
