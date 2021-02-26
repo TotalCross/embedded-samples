@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="3608dp"
+    android:layout_height="2261dp"
+    android:background="@drawable/Caminho_21">
+
+ <ImageView
+     android:id="@+id/creta"
+     android:layout_width="1303dp"
+     android:layout_height="570dp"
+     android:background="@drawable/Creta"
+     tools:ignore="MissingConstraints"
+     tools:layout_editor_absoluteX="2194dp"
+     tools:layout_editor_absoluteY="202dp" />
+
+ <ImageView
+     android:id="@+id/background_left"
+     android:layout_width="793dp"
+     android:layout_height="2406dp"
+     android:background="@drawable/Retângulo_21"
+     tools:ignore="MissingConstraints"
+     tools:layout_editor_absoluteX="-88dp"
+     tools:layout_editor_absoluteY="-102dp" />
+
+ <ImageView
+     android:id="@+id/Climate"
+     android:layout_width="1254dp"
+     android:layout_height="1130dp"
+     android:background="@drawable/Climate"
+     tools:ignore="MissingConstraints"
+     tools:layout_editor_absoluteX="2201dp"
+     tools:layout_editor_absoluteY="949dp" />
+
+ <ImageView
+     android:id="@+id/Levels"
+     android:layout_width="1314dp"
+     android:layout_height="1138dp"
+     android:background="@drawable/Levels"
+     tools:ignore="MissingConstraints"
+     tools:layout_editor_absoluteX="819dp"
+     tools:layout_editor_absoluteY="941dp" />
+
+ <ImageView
+     android:id="@+id/kmh"
+     android:layout_width="632dp"
+     android:layout_height="580dp"
+     android:background="@drawable/Grupo_187"
+     tools:ignore="MissingConstraints"
+     tools:layout_editor_absoluteX="1488dp"
+     tools:layout_editor_absoluteY="220dp" />
+
+ <ImageView
+     android:id="@+id/rpm"
+     android:layout_width="590dp"
+     android:layout_height="579dp"
+     android:background="@drawable/Grupo_186"
+     tools:ignore="MissingConstraints"
+     tools:layout_editor_absoluteX="819dp"
+     tools:layout_editor_absoluteY="220dp" />
+
+ <ImageButton
+     android:id="@+id/ImageButtonMus"
+     android:layout_width="149dp"
+     android:layout_height="220dp"
+     android:background="@drawable/Grupo_81"
+     tools:ignore="MissingConstraints"
+     tools:layout_editor_absoluteX="191dp"
+     tools:layout_editor_absoluteY="1328dp" />
+
+ <ImageButton
+     android:id="@+id/ImageButtonNav"
+     android:layout_width="208dp"
+     android:layout_height="270dp"
+     android:background="@drawable/Grupo_75"
+     tools:ignore="MissingConstraints"
+     tools:layout_editor_absoluteX="180dp"
+     tools:layout_editor_absoluteY="861dp" />
+
+ <ImageButton
+     android:id="@+id/ImageButtonOverView"
+     android:layout_width="174dp"
+     android:layout_height="212dp"
+     android:background="@drawable/Grupo_80"
+     tools:ignore="MissingConstraints"
+     tools:layout_editor_absoluteX="193dp"
+     tools:layout_editor_absoluteY="454dp" />
+
+
+ <ImageButton
+     android:id="@+id/ImageButtonPhone"
+     android:layout_width="160dp"
+     android:layout_height="230dp"
+     android:background="@drawable/Grupo_70"
+     tools:ignore="MissingConstraints"
+     tools:layout_editor_absoluteX="203dp"
+     tools:layout_editor_absoluteY="1695dp" />
+
+ <TextView
+     android:id="@+id/TextView3"
+     android:layout_width="440dp"
+     android:layout_height="104dp"
+     android:text="Monday"
+     android:textColor="#FFFFFF"
+     android:textSize="65dp"
+     tools:ignore="MissingConstraints"
+     tools:layout_editor_absoluteX="94dp"
+     tools:layout_editor_absoluteY="108dp" />
+
+ <ImageView
+     android:id="@+id/ImageViewBT"
+     android:layout_width="44dp"
+     android:layout_height="64dp"
+     android:background="@drawable/blutoothlogo"
+     tools:ignore="MissingConstraints"
+     tools:layout_editor_absoluteX="104dp"
+     tools:layout_editor_absoluteY="220dp" />
+
+ <TextView
+     android:id="@+id/TextView6"
+     android:layout_width="287dp"
+     android:layout_height="57dp"
+     android:text="Victoria's Phone"
+     android:textColor="#FFFFFF"
+     android:textSize="30dp"
+     tools:ignore="MissingConstraints"
+     tools:layout_editor_absoluteX="162dp"
+     tools:layout_editor_absoluteY="220dp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
