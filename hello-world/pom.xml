@@ -17,7 +17,7 @@
         <dependency>
             <groupId>com.totalcross</groupId>
             <artifactId>totalcross-sdk</artifactId>
-            <version>6.1.1</version>
+            <version>7.1.0</version>
         </dependency>
     </dependencies>
 
@@ -25,7 +25,7 @@
         <repository>
             <id>totalcross-repo</id>
             <name>ip-172-31-40-140-releases</name>
-            <url>http://maven.totalcross.com/artifactory/repo1</url>
+            <url>https://maven.totalcross.com/artifactory/repo1</url>
         </repository>
     </repositories>
 
@@ -33,7 +33,7 @@
         <pluginRepository>
             <id>totalcross-repo</id>
             <name>ip-172-31-40-140-releases</name>
-            <url>http://maven.totalcross.com/artifactory/repo1</url>
+            <url>https://maven.totalcross.com/artifactory/repo1</url>
         </pluginRepository>
     </pluginRepositories>
 
@@ -52,7 +52,7 @@
             <plugin>
                 <groupId>com.totalcross</groupId>
                 <artifactId>totalcross-maven-plugin</artifactId>
-                <version>2.0.1</version>
+                <version>2.0.4</version>
                 <configuration>
                     <name>${project.name}</name>
                     <platforms>
