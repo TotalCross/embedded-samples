@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+
+        android:layout_width="960dp"
+        android:layout_height="640dp">
+    <ImageView
+            android:id="@+id/scan"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="0dp"
+            android:layout_width="960dp"
+            android:layout_height="640dp"
+            android:background="@drawable/scan"
+    />
+    <ProgressBar
+            android:id="@+id/spinner"
+            android:layout_width="365dp"
+            android:layout_height="362dp"
+            tools:layout_editor_absoluteX="295dp"
+            tools:layout_editor_absoluteY="198dp"
+            android:indeterminateTint="#BC26FF"
+            style="?android:attr/progressBarStyle" />
+
+    <Button
+            android:id="@+id/back"
+            android:layout_width="36dp"
+            android:layout_height="46dp"
+            android:background="@drawable/home_seta"
+            tools:layout_editor_absoluteX="85dp"
+            tools:layout_editor_absoluteY="55dp" />
+
+    <TextView
+            android:id="@+id/TextView"
+            android:layout_width="342dp"
+            android:layout_height="71dp"
+            tools:layout_editor_absoluteX="305dp"
+            tools:layout_editor_absoluteY="42dp"
+            android:textStyle="bold"
+            android:textColor="#BC26FF"
+            android:textSize="50dp"
+            android:gravity="center"
+            android:text="SCANNING..." />
+
+    <TextView
+            android:id="@+id/label"
+            android:layout_width="363dp"
+            android:layout_height="78dp"
+            android:gravity="center"
+            android:text="0%"
+            android:textColor="#BC26FF"
+            android:textSize="54dp"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="298dp"
+            tools:layout_editor_absoluteY="330dp" />
+
+    <Button
+            android:id="@+id/home"
+            android:layout_width="61dp"
+            android:layout_height="57dp"
+            tools:layout_editor_absoluteX="846dp"
+            tools:layout_editor_absoluteY="52dp"
+            android:background="@drawable/home" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

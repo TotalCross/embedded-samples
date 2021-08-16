@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="960dp"
+        android:layout_height="640dp">
+
+
+    <ImageView
+            android:id="@+id/scan"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="0dp"
+            android:layout_width="960dp"
+            android:layout_height="640dp"
+            android:background="@drawable/scan"
+    />
+    <TextView
+            android:id="@+id/TextView"
+            android:layout_width="504dp"
+            android:layout_height="53dp"
+            tools:layout_editor_absoluteX="227dp"
+            tools:layout_editor_absoluteY="174dp"
+            android:textStyle="bold"
+            android:textSize="36dp"
+            android:textColor="#000000"
+            android:gravity="center"
+            android:text="Please select a file to print." />
+
+    <TextView
+            android:id="@+id/TextView3"
+            android:layout_width="608dp"
+            android:layout_height="71dp"
+            tools:layout_editor_absoluteX="176dp"
+            tools:layout_editor_absoluteY="47dp"
+            android:textStyle="bold"
+            android:textSize="48dp"
+            android:textColor="#2B05C7"
+            android:gravity="center"
+
+            android:text="PRINT FROM COMPUTER" />
+
+    <Button
+            android:id="@+id/back"
+            android:layout_width="36dp"
+            android:layout_height="46dp"
+            android:background="@drawable/home_seta"
+            tools:layout_editor_absoluteX="85dp"
+            tools:layout_editor_absoluteY="55dp" />
+    <Button
+            android:id="@+id/home"
+            android:layout_width="51dp"
+            android:layout_height="54dp"
+            tools:layout_editor_absoluteX="851dp"
+            tools:layout_editor_absoluteY="51dp"
+            android:background="@drawable/home" />
+
+    <Button
+            android:id="@+id/print"
+            android:layout_width="252dp"
+            android:layout_height="53dp"
+            android:background="@drawable/printbutton"
+            tools:layout_editor_absoluteX="121dp"
+            tools:layout_editor_absoluteY="343dp" />
+
+    <ImageView
+            android:id="@+id/ImageView"
+            android:layout_width="846dp"
+            android:layout_height="286dp"
+            tools:layout_editor_absoluteX="57dp"
+            tools:layout_editor_absoluteY="297dp"
+            android:background="@drawable/retangulo" />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

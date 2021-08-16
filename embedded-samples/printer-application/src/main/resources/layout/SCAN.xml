@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="960dp"
+        android:layout_height="640dp">
+    <ImageView
+            android:id="@+id/scan"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="0dp"
+            android:layout_width="960dp"
+            android:background="@drawable/scan"
+            android:layout_height="640dp"/>
+    <Button
+            android:id="@+id/photo"
+            android:layout_width="261dp"
+            android:layout_height="263dp"
+            tools:layout_editor_absoluteX="515dp"
+            tools:layout_editor_absoluteY="314dp"
+            android:background="@drawable/PHOTO" />
+
+    <Button
+            android:id="@+id/document"
+            android:layout_width="264dp"
+            android:layout_height="264dp"
+            tools:layout_editor_absoluteX="183dp"
+            tools:layout_editor_absoluteY="313dp"
+            android:background="@drawable/DOCUMENT" />
+
+    <TextView
+            android:id="@+id/TextView"
+            android:layout_width="338dp"
+            android:layout_height="104dp"
+            android:gravity="center"
+            android:text="What kind of scan do you need?"
+            android:textColor="#000000"
+            android:textSize="36dp"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="305dp"
+
+            tools:layout_editor_absoluteY="182dp" />
+
+    <TextView
+            android:id="@+id/TextView3"
+            android:layout_width="160dp"
+            android:layout_height="76dp"
+            android:gravity="center"
+            android:text="SCAN"
+            android:textColor="#BC26FF"
+            android:textSize="48dp"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="407dp"
+            tools:layout_editor_absoluteY="47dp" />
+
+    <Button
+            android:id="@+id/back"
+            android:layout_width="36dp"
+            android:layout_height="46dp"
+            android:background="@drawable/home_seta"
+            tools:layout_editor_absoluteX="85dp"
+            tools:layout_editor_absoluteY="55dp" />
+
+    <Button
+            android:id="@+id/home"
+            android:layout_width="48dp"
+            android:layout_height="44dp"
+            tools:layout_editor_absoluteX="828dp"
+            tools:layout_editor_absoluteY="54dp"
+            android:background="@drawable/home" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

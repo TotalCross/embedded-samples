@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="960dp"
+        android:layout_height="640dp">
+    <ImageView
+            android:id="@+id/scan"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="0dp"
+            android:layout_width="960dp"
+            android:layout_height="640dp"
+            android:background="@drawable/scan"
+    />
+    <TextView
+            android:id="@+id/TextView"
+            android:layout_width="156dp"
+            android:layout_height="71dp"
+            tools:layout_editor_absoluteX="403dp"
+            tools:layout_editor_absoluteY="37dp"
+            android:textStyle="bold"
+            android:textSize="48dp"
+            android:textColor="#2B05C7"
+            android:gravity="center"
+            android:text="PRINT" />
+
+    <Button
+            android:id="@+id/sendphone"
+            android:layout_width="243dp"
+            android:layout_height="264dp"
+            tools:layout_editor_absoluteX="57dp"
+            tools:layout_editor_absoluteY="316dp"
+            android:background="@drawable/FROM_PHONE" />
+
+    <Button
+            android:id="@+id/sendusb"
+            android:layout_width="245dp"
+            android:layout_height="263dp"
+            tools:layout_editor_absoluteX="357dp"
+            tools:layout_editor_absoluteY="317dp"
+            android:background="@drawable/FROM_USB" />
+
+    <Button
+            android:id="@+id/sendpc"
+            android:layout_width="248dp"
+            android:layout_height="261dp"
+            tools:layout_editor_absoluteX="655dp"
+            tools:layout_editor_absoluteY="318dp"
+            android:background="@drawable/FROM_COMPUTER" />
+
+    <TextView
+            android:id="@+id/TextView3"
+            android:layout_width="306dp"
+            android:layout_height="93dp"
+            android:textStyle="bold"
+            android:textSize="36dp"
+            android:textColor="#000000"
+            android:gravity="center"
+            tools:layout_editor_absoluteX="322dp"
+            tools:layout_editor_absoluteY="160dp"
+            android:text="Please select a source to print." />
+
+    <Button
+            android:id="@+id/back"
+            android:layout_width="36dp"
+            android:layout_height="46dp"
+            android:background="@drawable/home_seta"
+            tools:layout_editor_absoluteX="85dp"
+            tools:layout_editor_absoluteY="55dp" />
+
+    <Button
+            android:id="@+id/home"
+            android:layout_width="51dp"
+            android:layout_height="54dp"
+            tools:layout_editor_absoluteX="851dp"
+            tools:layout_editor_absoluteY="51dp"
+            android:background="@drawable/home" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

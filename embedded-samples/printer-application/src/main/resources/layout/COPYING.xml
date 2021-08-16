@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <androidx.constraintlayout.widget.ConstraintLayout
+ xmlns:android="http://schemas.android.com/apk/res/android"
+ xmlns:app="http://schemas.android.com/apk/res-auto"
+ xmlns:tools="http://schemas.android.com/tools"
+ android:background="#000000"
+ android:layout_width="960dp"
+ android:layout_height="640dp">
+
+ <ImageView
+     android:id="@+id/scan"
+     tools:layout_editor_absoluteX="0dp"
+     tools:layout_editor_absoluteY="0dp"
+     android:layout_width="960dp"
+     android:layout_height="640dp"
+     android:background="@drawable/scan"
+     />
+<TextView
+android:id="@+id/TextView"
+android:layout_width="258dp"
+android:layout_height="81dp"
+tools:layout_editor_absoluteX="340dp"
+tools:layout_editor_absoluteY="30dp"
+    android:textStyle="bold"
+    android:textSize="48dp"
+    android:textColor="#00ACF8"
+    android:gravity="center"
+android:text="Copying..." />
+
+ <TextView
+     android:id="@+id/label"
+     android:layout_width="359dp"
+     android:layout_height="92dp"
+     android:gravity="center"
+     android:text="0%"
+     android:textColor="#00ACF8"
+     android:textSize="52dp"
+     android:textStyle="bold"
+     tools:layout_editor_absoluteX="302dp"
+     tools:layout_editor_absoluteY="317dp" />
+
+ <ProgressBar
+android:id="@+id/spinner"
+android:layout_width="361dp"
+android:layout_height="377dp"
+tools:layout_editor_absoluteX="301dp"
+tools:layout_editor_absoluteY="183dp"
+     android:indeterminateTint="#00ACF8"
+style="?android:attr/progressBarStyle" />
+ <Button
+     android:id="@+id/home"
+     android:layout_width="51dp"
+     android:layout_height="54dp"
+     tools:layout_editor_absoluteX="851dp"
+     tools:layout_editor_absoluteY="51dp"
+     android:background="@drawable/home" />
+
+ <Button
+     android:id="@+id/back"
+     android:layout_width="36dp"
+     android:layout_height="46dp"
+     android:background="@drawable/home_seta"
+     tools:layout_editor_absoluteX="85dp"
+     tools:layout_editor_absoluteY="55dp" />
+
+
+
+ 
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+
+        android:layout_width="960dp"
+        android:layout_height="640dp">
+
+    <ImageView
+            android:id="@+id/scan"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="0dp"
+            android:layout_width="960dp"
+            android:layout_height="640dp"
+            android:background="@drawable/scan"
+    />
+    <Button
+            android:id="@+id/done"
+            android:layout_width="263dp"
+            android:layout_height="261dp"
+            tools:layout_editor_absoluteX="182dp"
+            tools:layout_editor_absoluteY="316dp"
+            android:background="@drawable/DONE" />
+
+    <Button
+            android:id="@+id/oscan"
+            android:layout_width="264dp"
+            android:layout_height="263dp"
+            tools:layout_editor_absoluteX="515dp"
+            tools:layout_editor_absoluteY="315dp"
+            android:background="@drawable/OTHER_SCAN" />
+
+    <TextView
+            android:id="@+id/TextView"
+            android:layout_width="330dp"
+            android:layout_height="90dp"
+            android:gravity="center"
+            android:text="You're all set! What's next"
+            android:textColor="#000000"
+            android:textSize="38dp"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="315dp"
+            tools:layout_editor_absoluteY="171dp" />
+
+    <TextView
+            android:id="@+id/TextView3"
+            android:layout_width="286dp"
+            android:layout_height="71dp"
+            android:gravity="center"
+            android:textColor="#BC26FF"
+            android:textSize="48dp"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="340dp"
+            tools:layout_editor_absoluteY="52dp"
+            android:text="FINISHING" />
+
+    <Button
+            android:id="@+id/back"
+            android:layout_width="36dp"
+            android:layout_height="46dp"
+            android:background="@drawable/home_seta"
+            tools:layout_editor_absoluteX="85dp"
+            tools:layout_editor_absoluteY="55dp" />
+
+    <Button
+            android:id="@+id/home"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            tools:layout_editor_absoluteX="860dp"
+            tools:layout_editor_absoluteY="51dp"
+            android:background="@drawable/home" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <androidx.constraintlayout.widget.ConstraintLayout
+ xmlns:android="http://schemas.android.com/apk/res/android"
+ xmlns:app="http://schemas.android.com/apk/res-auto"
+ xmlns:tools="http://schemas.android.com/tools"
+ android:background="@drawable/Caminho_21"
+ android:layout_width="3608dp"
+ android:layout_height="2261dp">
+
+
+    <ImageView
+        android:id="@+id/ImageViewBG"
+        android:layout_width="2945dp"
+        android:layout_height="2253dp"
+        android:background="@drawable/Grupo_148"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="663dp"
+        tools:layout_editor_absoluteY="-14dp" />
+
+    <ImageView
+android:id="@+id/ImageViewCentro"
+android:layout_width="1167dp"
+android:layout_height="1651dp"
+tools:layout_editor_absoluteX="1414dp"
+tools:layout_editor_absoluteY="226dp"
+android:background="@drawable/Grupo_197"
+tools:ignore="MissingConstraints" />
+
+ <ImageView
+     android:id="@+id/background_left"
+     android:layout_width="815dp"
+     android:layout_height="2440dp"
+     android:background="@drawable/Retângulo_21"
+     tools:ignore="MissingConstraints"
+     tools:layout_editor_absoluteX="-88dp"
+     tools:layout_editor_absoluteY="-102dp" />
+
+
+     <ImageButton
+     android:id="@+id/ImageButtonMus"
+     android:layout_width="149dp"
+     android:layout_height="220dp"
+     android:background="@drawable/Grupo_81"
+     tools:ignore="MissingConstraints"
+     tools:layout_editor_absoluteX="191dp"
+     tools:layout_editor_absoluteY="1328dp" />
+     
+     <ImageButton
+     android:id="@+id/ImageButtonNav"
+     android:layout_width="208dp"
+     android:layout_height="270dp"
+     android:background="@drawable/Grupo_75"
+     tools:ignore="MissingConstraints"
+     tools:layout_editor_absoluteX="180dp"
+     tools:layout_editor_absoluteY="861dp" />
+     
+     <ImageButton
+     android:id="@+id/ImageButtonOverView"
+     android:layout_width="174dp"
+     android:layout_height="212dp"
+     android:background="@drawable/Grupo_80"
+     tools:ignore="MissingConstraints"
+     tools:layout_editor_absoluteX="193dp"
+     tools:layout_editor_absoluteY="454dp" />
+     
+     
+     <ImageButton
+     android:id="@+id/ImageButtonPhone"
+     android:layout_width="160dp"
+     android:layout_height="230dp"
+     android:background="@drawable/Grupo_70"
+     tools:ignore="MissingConstraints"
+     tools:layout_editor_absoluteX="203dp"
+     tools:layout_editor_absoluteY="1695dp" />
+     
+
+ <TextView
+android:id="@+id/TextView"
+android:layout_width="450dp"
+android:layout_height="145dp"
+tools:layout_editor_absoluteX="77dp"
+tools:layout_editor_absoluteY="60dp"
+android:textSize="65dp" 
+android:text="Monday" 
+android:textColor="#FFFFFF"
+tools:ignore="MissingConstraints" />
+
+ <ImageView
+     android:id="@+id/ImageView5"
+     android:layout_width="44dp"
+     android:layout_height="64dp"
+     tools:layout_editor_absoluteX="104dp"
+     tools:layout_editor_absoluteY="220dp"
+     android:background="@drawable/blutoothlogo"
+     tools:ignore="MissingConstraints" />
+ <TextView
+     android:id="@+id/TextView6"
+     android:layout_width="287dp"
+     android:layout_height="57dp"
+     tools:layout_editor_absoluteX="162dp"
+     tools:layout_editor_absoluteY="220dp"
+     android:textSize="30dp"
+     android:text="Victoria's Phone"
+     android:textColor="#FFFFFF"
+     tools:ignore="MissingConstraints" />
+
+ 
+</androidx.constraintlayout.widget.ConstraintLayout>
