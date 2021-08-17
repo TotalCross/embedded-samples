@@ -9,7 +9,6 @@ import totalcross.ui.Container;
 import totalcross.sys.Settings;
 public class BinaryClockTC extends MainWindow {
 
-
     private ImageControl imageControl;
     private ImageControl ledSeconds1;
     private ImageControl ledSeconds2;
