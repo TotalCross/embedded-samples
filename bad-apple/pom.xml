@@ -14,6 +14,7 @@
         <totalcross.activation_key>5443444B5AAEEB90306B00E4</totalcross.activation_key>
     </properties>
 
+
     <dependencies>
         <dependency>
             <groupId>com.totalcross</groupId>
